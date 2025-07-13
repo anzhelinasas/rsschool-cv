@@ -42,11 +42,11 @@ Using System;
 ```
 ### 🎓 Education
 ---
-- Secondary school with an IT focus in Katowice, profile: Programmer 2024 - Present
+- Secondary school with an IT focus in Katowice, profile: *Programmer* **2024 - Present**
 
 ### 🌎 Languages
 ---
-- Russian - Native
-- Polish - B2 *(In progress)*
-- English - B1 *(In progress)*
-- German - Beginner *(In progres)* 
+- Russian - **Native** 
+- Polish - **B2** *(In progress)*
+- English - **B1** *(In progress)*
+- German - **Beginner** *(In progres)* 
